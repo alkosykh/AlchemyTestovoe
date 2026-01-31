@@ -20,6 +20,7 @@
 1. Запуск эмулятора Android через Android Studio.
 2. Запуск Appium сервер в терминале:
    `appium`
+3. `mvn clean test`
 ## Отчет
    `allure serve target/allure-results`
 
